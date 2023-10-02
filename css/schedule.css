@@ -1,5 +1,5 @@
 .schedule {
-    padding: 100px 0;
+    padding: 100px 0 0 0;
 }
 
 .schedule-title{
@@ -191,6 +191,8 @@
         gap: 5px;
         margin-left: -30px;
         padding-left: 20px;
+        border-bottom:2px solid transparent;
+        border-radius: 10px 10px 10px 10px;
     }
     .schedule-content{
         max-width: 140px; 
