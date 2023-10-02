@@ -40,8 +40,9 @@
     height: 360px;
     background: linear-gradient(#fff, #fff) padding-box,
         linear-gradient( #0985f9, #0b72f8, #2f5cf3, #4d40ea, #6809dc) border-box;
-    border-radius: 10px;
+    border-radius: 10px 10px 0 0;
     border: 2px solid transparent;
+    border-bottom: unset;
 }
 
 .schedule-day {
